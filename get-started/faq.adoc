@@ -20,7 +20,7 @@ summary: 이 FAQ는 질문에 대한 빠른 답변을 찾는 데 도움이 될 �
 
 *라이프사이클 계획 URL은 무엇인가요?*
 
-브라우저에서 URL을 입력하세요. https://console.netapp.com/["https://console.netapp.com/"^] NetApp 콘솔에 액세스하려면
+브라우저에서 URL을 입력하세요. https://console.netapp.com/["https://console.netapp.com/"^] NetApp Console 에 액세스하려면.
 
 
 

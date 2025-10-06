@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in, economic efficiency,lifecycle planning 
-summary: NetApp 콘솔에서 액세스하여 수명 주기 계획을 시작하세요. 
+summary: NetApp Console 에서 액세스하여 수명 주기 계획을 시작하세요. 
 ---
 = 액세스 수명 주기 계획
 :hardbreaks:
@@ -12,15 +12,15 @@ summary: NetApp 콘솔에서 액세스하여 수명 주기 계획을 시작하�
 
 
 [role="lead"]
-NetApp 콘솔을 사용하여 수명 주기 계획에 액세스합니다.
+NetApp Console 사용하여 수명 주기 계획에 액세스합니다.
 
 콘솔에 로그인하려면 NetApp 지원 사이트 자격 증명을 사용할 수 있습니다. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["로그인에 대해 자세히 알아보세요"^] .
 
 
-TIP: NetApp 콘솔(*스토리지* > *수명주기 계획*)이나 Digital Advisor (*대시보드* > *계획 위젯* > *기술 업데이트*)를 통해 이 기능에 액세스할 수 있습니다.
+TIP: NetApp Console (*스토리지* > *수명주기 계획*)이나 Digital Advisor (*대시보드* > *계획 위젯* > *기술 업데이트*)를 통해 이 기능에 액세스할 수 있습니다.
 
 .단계
-. 웹 브라우저를 열고 이동하세요 https://console.netapp.com/["NetApp 콘솔"^] .
+. 웹 브라우저를 열고 이동하세요 https://console.netapp.com/["NetApp Console"^] .
 +
 콘솔 로그인 페이지가 나타납니다.
 

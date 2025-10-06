@@ -15,7 +15,7 @@ summary: 수명 주기 계획을 사용하려면 몇 가지 단계를 거쳐 설
 수명 주기 계획을 사용하려면 몇 가지 단계를 거쳐 설정하세요.
 
 * 검토link:../get-started/prerequisites.html["전제 조건"] 시스템이 준비되었는지 확인하세요.
-* NetApp 콘솔에서 콘솔 에이전트를 만듭니다.
+* NetApp Console 에서 콘솔 에이전트를 만듭니다.
 * 콘솔에서 클러스터를 찾아보세요.
 
 
@@ -25,15 +25,15 @@ summary: 수명 주기 계획을 사용하려면 몇 가지 단계를 거쳐 설
 
 
 
-== NetApp 콘솔에서 콘솔 에이전트 만들기
+== NetApp Console 에서 콘솔 에이전트 만들기
 
-NetApp 콘솔 에이전트에는 NetApp ONTAP 머신에 대한 자격 증명이 포함되어 있습니다.
+NetApp Console 에이전트에는 NetApp ONTAP 머신에 대한 자격 증명이 포함되어 있습니다.
 
-서비스를 사용하기 전에 콘솔에서 콘솔 에이전트를 생성하려면 해당 내용을 설명하는 콘솔 설명서를 참조하세요. https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["NetApp 콘솔 에이전트를 만드는 방법"^] .
+서비스를 사용하기 전에 콘솔에서 콘솔 에이전트를 생성하려면 해당 내용을 설명하는 콘솔 설명서를 참조하세요. https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["NetApp Console 에이전트를 만드는 방법"^] .
 
 
 
-== NetApp 콘솔에서 클러스터를 검색하세요
+== NetApp Console 에서 클러스터를 검색하세요
 
 설정 과정에는 콘솔 내에서 클러스터 이름, IP, 사용자 이름, 비밀번호를 식별하는 작업이 포함됩니다.
 

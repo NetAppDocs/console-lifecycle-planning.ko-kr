@@ -22,7 +22,7 @@ summary: '클러스터가 현재 70% 용량 임계값에 미치지 못하거나 
 
 
 .단계
-. link:../get-started/capacity-login.html["NetApp 콘솔에 로그인하세요"] .
+. link:../get-started/capacity-login.html["NetApp Console 에 로그인하세요"] .
 . 왼쪽 탐색 메뉴에서 *수용량*을 선택하세요.
 +
 image:capacity-page.png["시스템 목록을 보여주는 용량 페이지"]

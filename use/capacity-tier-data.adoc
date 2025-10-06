@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
-summary: 수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 서비스는 예상되는 용량 증가를 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering에 대한 연결을 시작합니다. 
+summary: 수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 서비스는 예상되는 용량 증가를 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering 에 대한 연결을 시작합니다. 
 ---
 = 콜드 데이터를 클라우드 스토리지로 계층화하고 수명 주기 계획에서 식별된 스토리지를 확보합니다.
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 수명 주기 계획은 예상되는 데이터 증가에 따라 권장 
 
 
 [role="lead"]
-수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 예상되는 용량 증가를 충족하고 저장 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering에 대한 연결을 시작합니다.
+수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 예상되는 용량 증가를 충족하고 저장 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering 에 대한 연결을 시작합니다.
 
 이를 통해 데이터를 계층화하고 수명 주기 계획으로 쉽게 돌아가 다른 시스템에 대한 조치를 취할 수 있습니다.
 
@@ -24,15 +24,15 @@ summary: 수명 주기 계획은 예상되는 데이터 증가에 따라 권장 
 
 
 .단계
-. link:../get-started/capacity-login.html["NetApp 콘솔에 로그인하세요"] .
+. link:../get-started/capacity-login.html["NetApp Console 에 로그인하세요"] .
 . 자산에 대해 *저장 옵션 평가*를 선택합니다.
 . *티어 콜드 데이터*를 선택하세요.
 . 다음 단계는 콘솔 에이전트가 이미 배포되어 있고 클러스터가 검색되었는지 여부에 따라 달라집니다.
 +
-** 콘솔 에이전트를 배포해야 하는 경우 해당 내용을 설명하는 NetApp 콘솔 설명서를 참조하세요. https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["콘솔 에이전트를 만드는 방법"^] .  그렇지 않은 경우, 이미 콘솔 에이전트를 배포한 경우 에이전트를 배포하는 옵션이 나타나지 않습니다.
+** 콘솔 에이전트를 배포해야 하는 경우 해당 내용을 설명하는 NetApp Console 설명서를 참조하세요. https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["콘솔 에이전트를 만드는 방법"^] .  그렇지 않은 경우, 이미 콘솔 에이전트를 배포한 경우 에이전트를 배포하는 옵션이 나타나지 않습니다.
 ** 서비스가 클러스터를 검색해야 하는 경우 다음을 참조하세요. https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["온프레미스 ONTAP 클러스터를 찾아보세요"^] .  그렇지 않으면 클러스터가 이미 검색된 경우 클러스터를 검색하는 옵션이 나타나지 않습니다.
 +
-수명 주기 계획은 또 다른 제품인 NetApp Cloud Tiering과의 연결을 시작합니다.
+수명 주기 계획은 또 다른 제품인 NetApp Cloud Tiering 과의 연결을 시작합니다.
 
 +
 image:capacity-tier-cold-data.png["콜드 데이터 계층화 옵션을 보여주는 용량 페이지"]
@@ -40,13 +40,13 @@ image:capacity-tier-cold-data.png["콜드 데이터 계층화 옵션을 보여�
 
 
 . *에이전트 배포*를 선택합니다.
-. 클라우드 제공자를 선택하고 *계속*을 선택하세요.
+. 클라우드 제공업체를 선택하고 *계속*을 선택하세요.
 . *계속* 또는 *배포로 건너뛰기*를 선택하세요.
 +
-콘솔 에이전트를 배포한 후 NetApp Cloud Tiering은 클러스터를 검색합니다(아직 검색되지 않은 경우).
+콘솔 에이전트를 배포한 후 NetApp Cloud Tiering 클러스터를 검색합니다(아직 검색되지 않은 경우).
 
 . 클러스터가 검색된 후 계층화를 설정합니다.
 +
-계층화에 대한 자세한 내용은 다음을 참조하세요. https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp 클라우드 계층화 설명서"^] .
+계층화에 대한 자세한 내용은 다음을 참조하세요. https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp Cloud Tiering 설명서"^] .
 
 
