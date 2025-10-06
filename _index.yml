@@ -1,0 +1,42 @@
+---
+indexpage:
+  title: 수명 주기 계획 문서
+  summary: 수명 주기 계획은 현재 또는 예상되는 저용량 클러스터를 식별하고 데이터 계층화에 대한 권장 사항을 제공합니다.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life, lifecycle planning
+  lead: 수명 주기 계획은 현재 또는 예상되는 저용량 클러스터를 식별하고 데이터 계층화에 대한 권장 사항을 제공합니다.
+  tiles:
+  - title: 시작하기
+    links:
+    - title: 수명 주기 계획에 대해 알아보세요
+      url: "/get-started/intro.html"
+    - title: 수명 주기 계획의 새로운 기능
+      url: "/release-notes/whats-new.html"
+    - title: 빠른 시작
+      url: "/get-started/quick-start.html"
+    - title: 필수 조건
+      url: "/get-started/prerequisites.html"
+    - title: 수명주기 계획에 로그인하세요
+      url: "/get-started/capacity-login.html"
+    - title: 자주 묻는 질문
+      url: "/get-started/faq.html"
+  - title: 수명 주기 계획 사용
+    links:
+    - title: 용량 문제 검토 및 해결
+      url: "/use/capacity-remediate-overview.html"
+    - title: 용량 상태 검토
+      url: "/use/capacity-review-status.html"
+    - title: 용량 추가
+      url: "/use/capacity-add.html"
+    - title: 콜드 데이터를 클라우드 스토리지로 계층화
+      url: "/use/capacity-tier-data.html"
+    - title: 다시 확인하기 위한 알림을 설정하세요
+      url: "/use/capacity-reminders.html"
+  - title: 블로그 및 커뮤니티
+    links:
+    - title: NetApp 콘솔
+      url: https://www.netapp.com/console
+    - title: NetApp 데이터 서비스
+      url: https://www.netapp.com/data-services/
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com

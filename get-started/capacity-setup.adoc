@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity,lifecycle planning 
+summary: 수명 주기 계획을 사용하려면 몇 가지 단계를 거쳐 설정하세요. 
+---
+= 수명 주기 계획 설정
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+수명 주기 계획을 사용하려면 몇 가지 단계를 거쳐 설정하세요.
+
+* 검토link:../get-started/prerequisites.html["전제 조건"] 시스템이 준비되었는지 확인하세요.
+* NetApp 콘솔에서 콘솔 에이전트를 만듭니다.
+* 콘솔에서 클러스터를 찾아보세요.
+
+
+콘솔에서 직접 콘솔 에이전트를 생성하고 나중에 BlueXP economic efficiency 위해 해당 에이전트를 사용할 수 있습니다.  또는 용량 개선 프로세스 중간에 콘솔 에이전트를 만들 수도 있습니다.
+
+마찬가지로 콘솔을 사용하거나 용량 개선 프로세스 중에 클러스터를 미리 검색할 수 있습니다.
+
+
+
+== NetApp 콘솔에서 콘솔 에이전트 만들기
+
+NetApp 콘솔 에이전트에는 NetApp ONTAP 머신에 대한 자격 증명이 포함되어 있습니다.
+
+서비스를 사용하기 전에 콘솔에서 콘솔 에이전트를 생성하려면 해당 내용을 설명하는 콘솔 설명서를 참조하세요. https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["NetApp 콘솔 에이전트를 만드는 방법"^] .
+
+
+
+== NetApp 콘솔에서 클러스터를 검색하세요
+
+설정 과정에는 콘솔 내에서 클러스터 이름, IP, 사용자 이름, 비밀번호를 식별하는 작업이 포함됩니다.
+
+수명 주기 계획을 사용하기 전에 지침을 보려면 다음을 참조하세요. https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["온프레미스 ONTAP 클러스터를 찾아보세요"^] .

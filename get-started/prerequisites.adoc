@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are NetApp lifecycle planning requirements, lifecycle planning prerequisites 
+summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 검증하여 NetApp 수명 주기 계획을 시작하세요. 
+---
+= 수명 주기 계획 전제 조건
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+운영 환경, 로그인, 네트워크 액세스의 준비 상태를 확인하여 수명 주기 계획을 시작하세요.  수명 주기 계획을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.
+
+* 귀하의 환경은 웹 브라우저에서 로그인 및 네트워크 액세스를 포함한 모든 NetApp 콘솔 요구 사항을 충족해야 합니다.
++
+를 참조하세요 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["NetApp 콘솔 빠른 시작"^] 그리고 https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["NetApp 콘솔 네트워킹 정보"^] .
+
+* 클러스터에 대한 액세스 자격 증명이 필요합니다.
+* 필수 사항은 아니지만 NetApp 콘솔 에이전트가 설치되어 활성화되어 있고 ONTAP 시스템이 검색되어 있으면 도움이 됩니다.  그렇지 않은 경우, 서비스에서 해당 과정을 안내해 드립니다.
+* 콜드 데이터를 클라우드 스토리지에 계층화하려는 경우, 해당 클러스터가 라이선스에 따라 적합한지 확인하세요.
+

@@ -1,0 +1,13 @@
+= 장애인용 기능
+:allow-uri-read: 
+
+
+
+
+=== 장애인용 기능
+
+일부 BlueXP economic efficiency 기능이 일시적으로 비활성화되었습니다.
+
+* 기술 업데이트
+* 용량 추가
+

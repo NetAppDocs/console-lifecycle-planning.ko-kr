@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, economic efficiency,bluexp 
+summary: NetApp 수명 주기 계획 용량 계획은 AI를 사용하여 데이터 증가를 예측하여 계획 프로세스를 지원합니다. 
+---
+= 수명 주기 계획에서 식별된 용량 문제를 검토하고 수정합니다.
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+용량 계획에는 현재와 미래의 저용량 영역을 식별하는 작업이 포함됩니다.  수명주기 계획은 AI를 사용하여 데이터 증가를 예측하여 계획 프로세스를 지원합니다.  수명 주기 계획은 환경에서 용량이 부족한 영역을 식별합니다.
+
+수명 주기 계획을 사용하면 다음과 같은 목표를 달성할 수 있습니다.
+
+* link:../use/capacity-review-status.html["용량 상태 검토"]
+* link:../use/capacity-tier-data.html["콜드 데이터를 클라우드 스토리지로 계층화하고 스토리지를 확보하세요"]
+* link:../use/capacity-reminders.html["아무 작업도 선택하지 않고 다시 확인하도록 알림을 설정하세요."]
+

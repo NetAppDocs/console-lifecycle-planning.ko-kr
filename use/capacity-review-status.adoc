@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
+summary: '클러스터가 현재 70% 용량 임계값에 미치지 못하거나 그 이하가 될 것으로 예상되는 경우, 수명 주기 계획은 해당 클러스터를 저용량 리소스로 식별하고 경고합니다.' 
+---
+= 수명 주기 계획에서 용량 상태 검토
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+사용자 환경의 스토리지 자산이 현재 90% 용량 임계값에 미치지 못하거나 그 이하로 떨어질 것으로 예상되는 경우, 수명 주기 계획은 해당 자산을 저용량 리소스로 식별하고 경고합니다.  또한, 수명 주기 계획은 데이터를 계층화해야 하는지 여부에 대한 권장 사항을 제공합니다.
+
+다음 유형의 데이터를 검토하여 용량 문제 해결에 도움을 받을 수 있습니다.
+
+* 플랫폼
+* 자산이 위치한 국가
+* 월별 현재 및 예상 용량
+
+
+.단계
+. link:../get-started/capacity-login.html["NetApp 콘솔에 로그인하세요"] .
+. 왼쪽 탐색 메뉴에서 *수용량*을 선택하세요.
++
+image:capacity-page.png["시스템 목록을 보여주는 용량 페이지"]
+
+. 용량 페이지에서 시스템을 선택하세요.
++
+image:capacity-evaluate-storage-capacity.png["수명 주기 계획의 용량 페이지"]
+
+. 자산에 대해 *저장 옵션 평가*를 선택합니다.
+. 다음 옵션 중 하나를 선택하세요.
++
+** *모범 사례*: 모범 사례를 보려면 링크를 클릭하세요.
+** *티어 콜드 데이터*: 계속link:../use/capacity-tier-data.html["콜드 데이터를 클라우드 스토리지로 계층화하고 스토리지를 확보합니다."] .
+** *필요한 조치 없음*: 계속 진행link:../use/capacity-reminders.html["아무 작업도 선택하지 않고 다시 확인하라는 알림을 설정합니다."] .
+
+
+
