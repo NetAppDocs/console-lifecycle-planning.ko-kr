@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
-summary: 'NetApp 수명 주기 계획 서비스는 현재 또는 예상되는 저용량 클러스터를 식별하고 데이터 계층화 또는 추가 용량( AFF 시스템용)에 대한 권장 사항을 제공합니다.  이 서비스는 수명이 다한 시스템에 대한 기술 교체 권장 사항도 제공합니다.' 
+summary: 'NetApp 라이프사이클 계획 서비스는 현재 또는 예상되는 용량이 부족한 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 또한 이 서비스는 수명이 다해가는 시스템에 대한 시스템 교체 권장 사항도 제공합니다.' 
 ---
 = 수명 주기 계획의 새로운 기능
 :hardbreaks:
@@ -13,6 +13,21 @@ summary: 'NetApp 수명 주기 계획 서비스는 현재 또는 예상되는 �
 
 [role="lead"]
 라이프사이클 계획의 새로운 소식을 알아보세요.
+
+
+
+== 2026년 6월 3일
+
+
+
+=== 라이프사이클 계획 기능 이름 업데이트
+
+다음과 같은 Lifecycle 계획 기능의 이름이 변경되었습니다.
+
+* Tech refresh 기능이 이제 *System Refresh*로 이름이 변경되었습니다. link:../use/tech-refresh.html["시스템 새로 고침 평가"] 방법을 알아보십시오.
+* 용량 추가 기능이 이제 *Storage Expansion*으로 이름이 변경되었습니다. link:../use/capacity-add.html["스토리지 확장"] 방법을 알아보십시오.
+* 갱신 기능이 이제 *지원 갱신*으로 이름이 변경되었습니다. link:../support/task-support-registration.html["지원 등록"] 방법을 알아보십시오.
+
 
 
 

@@ -24,7 +24,6 @@
   <block id="4409dcaa0e2404a16a923cd466b13496" category="paragraph">NetApp Console 사용하여 수명 주기 계획에 액세스합니다.</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">로그인에 대해 자세히 알아보세요</block>
   <block id="4c992a0884fb27bf6e258aeeb9186bc9" category="paragraph">콘솔에 로그인하려면 NetApp 지원 사이트 자격 증명을 사용할 수 있습니다.<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block> .</block>
-  <block id="cc07f1abe65c2e4c2c4159ab1c15fe91" category="admonition">NetApp Console (*스토리지* &gt; *수명주기 계획*)이나 Digital Advisor (*대시보드* &gt; *계획 위젯* &gt; *기술 업데이트*)를 통해 이 기능에 액세스할 수 있습니다.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="982bd3899a5d1f111ad06bb73841bc70" category="inline-link">NetApp Console</block>
   <block id="352cce5842856ce34ce1f525ea3f3063" category="list-text">웹 브라우저를 열고 이동하세요<block ref="d6a8357fd9eebcdff3de02435d957676" category="inline-link-rx"></block> .</block>
@@ -37,7 +36,6 @@
   <block id="4e19bf2e9b4ac5a922a2178855496f5f" category="list-text">검토<block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 시스템이 준비되었는지 확인하세요.</block>
   <block id="213689e3824c3842ee1cdb3ae49b0131" category="list-text">NetApp Console 에서 콘솔 에이전트를 만듭니다.</block>
   <block id="0e3747332782db47a3f7f6a39bcc758d" category="list-text">콘솔에서 클러스터를 찾아보세요.</block>
-  <block id="80526f97f09af6a5d20818ce9d1aa659" category="paragraph">콘솔에서 직접 콘솔 에이전트를 생성하고 나중에 BlueXP economic efficiency 위해 해당 에이전트를 사용할 수 있습니다.  또는 용량 개선 프로세스 중간에 콘솔 에이전트를 만들 수도 있습니다.</block>
   <block id="5eaec4ed71699a5bb43c22a5010be7d9" category="paragraph">마찬가지로 콘솔을 사용하거나 용량 개선 프로세스 중에 클러스터를 미리 검색할 수 있습니다.</block>
   <block id="01f52dd5b9c3fcf42a482c9c21f24432" category="section-title">NetApp Console 에서 콘솔 에이전트 만들기</block>
   <block id="80f2ac90e12391c4af73ba72a4582586" category="paragraph">NetApp Console 에이전트에는 NetApp ONTAP 머신에 대한 자격 증명이 포함되어 있습니다.</block>
@@ -60,7 +58,6 @@
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">NetApp 라이선스 파일(NLF)은 필요하지 않습니다.</block>
   <block id="b4d4f6b8330b6463316818057edebd1d" category="summary">NetApp 수명 주기 계획은 현재 또는 예상되는 저용량 클러스터를 식별하고 데이터 계층화에 대한 권장 사항을 제공합니다.</block>
   <block id="738bddffaf8c953ead58e77594d61e27" category="doc">수명 주기 계획에 대해 알아보세요</block>
-  <block id="ed3d51b267614016e45d189f489c77f6" category="paragraph">수명 주기 계획은 현재 또는 예상되는 저용량 스토리지 자산을 평가하고 비즈니스 요구 사항을 충족하는 데이터 계층화 옵션에 대한 권장 사항을 제공합니다.</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="section-title">NetApp Console</block>
   <block id="7c776c6aa9835fda1b29b4771c2638e8" category="paragraph">수명 주기 계획은 NetApp Console 통해 접근할 수 있습니다.</block>
   <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">NetApp Console 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다. NetApp 데이터 서비스에 액세스하고 사용하려면 콘솔이 필요합니다. 관리 인터페이스로서, 하나의 인터페이스에서 여러 스토리지 리소스를 관리할 수 있습니다. 콘솔 관리자는 기업 내 모든 시스템의 저장소와 서비스에 대한 액세스를 제어할 수 있습니다.</block>
@@ -73,14 +70,12 @@
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">현재 및 예상 용량에 대한 자산을 검토합니다.</block>
   <block id="3a5156e2b110b01f0232d7d1c0315f1b" category="section-title">수명주기 계획의 이점</block>
   <block id="833f6dc2fb23df68f7359d32c726551e" category="paragraph">수명주기 계획은 다음과 같은 이점을 제공합니다.</block>
-  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">기술 갱신을 계획하는 데 도움이 되도록 수명 주기 이벤트에 접근하는 시스템을 식별합니다.</block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">사용자 환경의 용량 문제를 해결하기 위한 신뢰할 수 있는 고문의 권장 사항을 제공합니다.</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">추가 저장 계획에 소요되는 시간을 줄입니다.</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
   <block id="17e75fb73776766e7311c3e085d274f5" category="paragraph">NetApp 수명주기 계획 사용에 대해 요금을 청구하지 않습니다.</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">콜드 데이터를 클라우드 스토리지에 저장하기로 결정한 경우, 해당 클라우드 제공업체에 적용되는 요금을 확인해야 합니다.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">입장</block>
-  <block id="3e4fb4563dc82adcd4bd48b88acabacd" category="paragraph">NetApp Console (*스토리지* &gt; *수명주기 계획*)이나 Active IQ Digital Advisor ( Digital Advisor 라고도 함)(*대시보드* &gt; *계획 위젯* &gt; *기술 업데이트*)를 통해 이 기능에 액세스할 수 있습니다.</block>
   <block id="6ee44a97c3bde1b4b443da63f561e127" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 검증하여 NetApp 수명 주기 계획을 시작하세요.</block>
   <block id="ce9492140ce6fd831d4d5870b1489b8d" category="doc">수명 주기 계획 전제 조건</block>
   <block id="9cf3ad8527c1bb0512c1cae3ba255528" category="paragraph">운영 환경, 로그인, 네트워크 액세스의 준비 상태를 확인하여 수명 주기 계획을 시작하세요.  수명 주기 계획을 사용하려면 환경이 모든 요구 사항을 충족하는지 확인해야 합니다.</block>
@@ -130,8 +125,6 @@
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈소스</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">공지 파일은 NetApp 소프트웨어에서 사용되는 타사 저작권 및 라이선스에 대한 정보를 제공합니다.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">알려진 제한 사항은 이 서비스 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 나타냅니다.</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">제한 사항</block>
-  <block id="b7ec1b0922b218fd6c319d32a6bec93d" category="summary">NetApp 수명 주기 계획 서비스는 현재 또는 예상되는 저용량 클러스터를 식별하고 데이터 계층화 또는 추가 용량( AFF 시스템용)에 대한 권장 사항을 제공합니다.  이 서비스는 수명이 다한 시스템에 대한 기술 교체 권장 사항도 제공합니다.</block>
   <block id="46cb02d5628c6067e8b293e526b9b4a7" category="doc">수명 주기 계획의 새로운 기능</block>
   <block id="b6a3c0ab2923358ede3a440002e30423" category="paragraph">라이프사이클 계획의 새로운 소식을 알아보세요.</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025년 10월 6일</block>
@@ -145,39 +138,24 @@
   <block id="39bcc3e1a68b1461b9667a7690558d58" category="paragraph"><block ref="4c8264ea035faba87439d59337882b10" category="inline-link-macro-rx"></block> .</block>
   <block id="e48486c33f71dc8e173adb6c6fc66485" category="summary">NetApp 다양한 방법으로 NetApp Console 에 대한 지원을 제공합니다. 지식 기반(KB) 문서와 커뮤니티 포럼 등 광범위한 무료 셀프 지원 옵션을 연중무휴 24시간 이용할 수 있습니다. 지원 등록 시 웹 티켓팅을 통한 원격 기술 지원이 제공됩니다.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으세요</block>
-  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp BlueXP 와 클라우드 서비스에 대한 다양한 지원을 제공합니다. 지식 베이스(KB) 문서 및 커뮤니티 포럼 등 다양한 무료 셀프 지원 옵션을 연중무휴 24시간 이용하실 수 있습니다. 지원 등록 시 웹 티켓팅을 통한 원격 기술 지원이 제공됩니다.</block>
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">클라우드 공급자 파일 서비스에 대한 지원을 받으세요</block>
-  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자 파일 서비스, 해당 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원에 대해서는 해당 제품의 BlueXP 설명서에서 "도움말 받기"를 참조하세요.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP 용 Amazon FSx</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
-  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
-  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 와 해당 스토리지 솔루션 및 서비스에 대한 구체적인 기술 지원을 받으려면 아래에 설명된 지원 옵션을 이용하세요.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">셀프 지원 옵션 사용</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">다음 옵션은 주 7일, 하루 24시간 무료로 이용 가능합니다.</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">설명서</block>
-  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">현재 보고 있는 BlueXP 문서입니다.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">지식 기반</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
-  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">BlueXP 지식 기반을 검색하여 문제 해결에 도움이 되는 문서를 찾아보세요.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">현재 진행 중인 토론을 팔로우하거나 새로운 토론을 만들려면 BlueXP 커뮤니티에 가입하세요.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">NetApp 지원을 통해 사례 만들기</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위에 나열된 셀프 지원 옵션 외에도, 지원을 활성화한 후 NetApp 지원 전문가와 협력하여 문제를 해결할 수 있습니다.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">시작하기 전에</block>
-  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">BlueXP 로그인과 관련된 자격 증명을 관리하는 방법을 알아보세요.</block>
-  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">*사례 만들기* 기능을 사용하려면 먼저 NetApp 지원 사이트 자격 증명을 BlueXP 로그인과 연결해야 합니다.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block> .</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">일련 번호가 있는 ONTAP 시스템에 대한 사례를 개설하는 경우 NSS 계정은 해당 시스템의 일련 번호와 연결되어야 합니다.</block>
-  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">BlueXP 에서 *도움말 &gt; 지원*을 선택하세요.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">*리소스* 페이지에서 기술 지원 아래에 있는 사용 가능한 옵션 중 하나를 선택하세요.</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">전화로 상담원과 통화하고 싶으시면 *전화하기*를 선택하세요. netapp.com에서 전화할 수 있는 전화번호가 나열된 페이지로 이동하게 됩니다.</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">NetApp 지원 전문가에게 티켓을 열려면 *사례 만들기*를 선택하세요.</block>
-  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*서비스*: 문제와 관련된 서비스를 선택하세요. 예를 들어, BlueXP 서비스 내의 워크플로나 기능에 대한 기술 지원 문제에 특화되어 있습니다.</block>
-  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*작업 환경*: 스토리지에 해당되는 경우 * Cloud Volumes ONTAP* 또는 *온프레미스*를 선택한 다음 연관된 작업 환경을 선택합니다.</block>
-  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">작업 환경 목록은 서비스의 상단 배너에서 선택한 BlueXP 조직(또는 계정), 프로젝트(또는 작업 공간) 및 커넥터의 범위 내에 있습니다.</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*사례 우선순위*: 낮음, 보통, 높음 또는 중요로 사례의 우선순위를 선택합니다.</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">이러한 우선순위에 대한 자세한 내용을 알아보려면 필드 이름 옆에 있는 정보 아이콘 위에 마우스를 올려놓으세요.</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*문제 설명*: 해당 오류 메시지나 수행한 문제 해결 단계를 포함하여 문제에 대한 자세한 설명을 제공하세요.</block>
@@ -185,18 +163,12 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*첨부파일(선택사항)*: 최대 5개의 첨부파일을 한 번에 하나씩 업로드하세요.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">첨부파일은 파일당 25MB로 제한됩니다. 다음 파일 확장자가 지원됩니다: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, csv.</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">NetApp 지원팀에 사례를 생성할 수 있는 사례 생성 양식의 스크린샷입니다.</block>
-  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">당신이 완료한 후</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">지원 사례 번호가 포함된 팝업이 나타납니다. NetApp 지원 전문가가 귀하의 사례를 검토하고 곧 연락드릴 것입니다.</block>
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">지원 사례 기록을 보려면 *설정 &gt; 타임라인*을 선택하고 "지원 사례 만들기"라는 이름의 작업을 찾으세요. 가장 오른쪽에 있는 버튼을 누르면 동작을 확장하여 자세한 내용을 볼 수 있습니다.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">사례를 생성하려고 할 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 사례를 생성할 권한이 없습니다."</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">이 오류는 NSS 계정과 해당 계정과 연결된 기록상 회사가 BlueXP 계정 일련 번호에 대한 기록상 회사와 동일하지 않다는 것을 의미할 수 있습니다(예: 960xxxx) 또는 작업 환경 일련 번호. 다음 옵션 중 하나를 사용하여 도움을 요청할 수 있습니다.</block>
-  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">제품 내 채팅을 사용하세요</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">비기술적 사례를 제출하세요<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">지원 사례 관리(미리 보기)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">BlueXP 에서 직접 활성화된 지원 사례와 해결된 지원 사례를 보고 관리할 수 있습니다. 귀하의 NSS 계정 및 회사와 관련된 사례를 관리할 수 있습니다.</block>
-  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">사례 관리 기능은 미리 보기로 제공됩니다. 우리는 이 경험을 더욱 개선하고 향후 릴리스에서 향상된 기능을 추가할 계획입니다. 제품 내 채팅을 이용해 피드백을 보내주세요.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">다음 사항에 유의하세요.</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">페이지 상단의 사례 관리 대시보드는 두 가지 보기를 제공합니다.</block>
   <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">왼쪽 보기는 귀하가 제공한 NSS 계정 사용자에 의해 지난 3개월 동안 열린 총 사례를 보여줍니다.</block>
@@ -205,27 +177,15 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">관심 있는 열을 추가하거나 제거할 수 있으며, 우선순위 및 상태와 같은 열의 내용을 필터링할 수 있습니다. 다른 열은 정렬 기능만 제공합니다.</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">자세한 내용은 아래 단계를 참조하세요.</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">사례별로 사례 메모를 업데이트하거나 아직 닫힘 또는 닫힘 보류 상태가 아닌 사례를 닫는 기능을 제공합니다.</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">*사례 관리*를 선택하고 메시지가 표시되면 BlueXP 에 NSS 계정을 추가합니다.</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">*사례 관리* 페이지는 BlueXP 사용자 계정과 연결된 NSS 계정과 관련된 미해결 사례를 보여줍니다. 이는 *NSS 관리* 페이지 상단에 표시되는 NSS 계정과 동일합니다.</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">필요에 따라 표에 표시되는 정보를 수정합니다.</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">*조직 사례*에서 *보기*를 선택하면 회사와 관련된 모든 사례를 볼 수 있습니다.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">정확한 날짜 범위를 선택하거나 다른 기간을 선택하여 날짜 범위를 수정하세요.</block>
-  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">케이스 관리 페이지의 표 위에 있는 옵션의 스크린샷으로, 이를 통해 정확한 날짜 범위나 지난 7일, 30일 또는 3개월을 선택할 수 있습니다.</block>
-  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">열의 내용을 필터링합니다.</block>
-  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">활성 또는 닫힘과 같은 특정 상태와 일치하는 사례를 필터링할 수 있는 상태 열의 필터 옵션 스크린샷입니다.</block>
-  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">표에 나타나는 플러스 아이콘</block>
-  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">표에 나타나는 열을 변경하려면 다음을 선택하세요.<block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 그런 다음 표시하려는 열을 선택합니다.</block>
-  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">표에 표시할 수 있는 열을 보여주는 스크린샷입니다.</block>
-  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">표의 마지막 열에 나타나는 세 개의 점이 있는 아이콘</block>
-  <block id="348552521b849746260fe8d296d34c15" category="list-text">기존 사례를 선택하여 관리하세요.<block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 그리고 사용 가능한 옵션 중 하나를 선택하세요:</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*사례 보기*: 특정 사례에 대한 전체 세부 정보를 확인하세요.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*사례 메모 업데이트*: 문제에 대한 추가 세부 정보를 제공하거나 *파일 업로드*를 선택하여 최대 5개의 파일을 첨부하세요.</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*사건 종결*: 사건을 종결하는 이유를 자세히 입력하고 *사건 종결*을 선택하세요.</block>
-  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">표의 마지막 열에 있는 메뉴를 선택한 후 취할 수 있는 작업을 보여주는 스크린샷입니다.</block>
-  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6269943bbab503c57445a47b04897eaa" category="summary">NetApp 기술 지원에 지원 사례를 개설하려면 먼저 NetApp Console 에 NetApp 지원 사이트 계정을 추가한 다음 지원을 위해 등록해야 합니다.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원 등록</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">지원 등록 개요</block>
@@ -241,9 +201,7 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp 의 새로운 기능</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp 처음 사용하시고 NSS 계정이 없으신 경우 아래의 각 단계를 따르세요.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾으세요.</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp 지원 등록 사이트</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">로 이동<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> *저는 등록된 NetApp 고객이 아닙니다*를 선택하세요.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">필수 입력란(빨간색 별표가 있는 항목)을 작성해 주세요.</block>
@@ -271,18 +229,14 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">기존 고객 수준 NSS 계정이 있고 파트너 수준 계정을 추가하려는 경우에도 마찬가지입니다.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">로그인에 성공하면 NetApp NSS 사용자 이름을 저장합니다.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 수평 점으로 구성된 아이콘</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.</block>
   <block id="1c85b72120b585028490f9cb2c62a430" category="summary">수명 주기 계획은 예측된 데이터 증가에 따라 AFF 시스템에 대한 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.</block>
   <block id="a4b7f4fbb927af10488fb0f1be9b7aa8" category="paragraph">수명 주기 계획은 예측된 데이터 증가에 따라 AFF 시스템에 대한 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.</block>
-  <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">권장 사항 중 하나는 기존 일련 번호에 선반을 추가하여 용량을 늘리는 것입니다.</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">NetApp 영업팀에 견적 요청이나 대체 옵션 요청으로 추천 사항을 쉽게 제출할 수 있습니다.</block>
   <block id="0aa8eee6dc5796fb05ecd4c09063d90a" category="inline-link-macro">NetApp Console 에 로그인하세요</block>
   <block id="efafc891275242e940b48eac42ac5d2a" category="list-text"><block ref="44b0339ddb110b80a3345d53f4eba5a4" category="inline-link-macro-rx"></block> .</block>
   <block id="1f95877e26de3e2da5e124cfece7b78d" category="list-text">*용량 계획*을 선택하세요.</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">자산에 대해 *저장 옵션 평가*를 선택합니다.</block>
-  <block id="dfa90aeb29550058022b6b79dc2fcab1" category="list-text">*용량 추가*를 선택하세요.</block>
   <block id="acdb4b15420328ba01cc67b594eb95b8" category="paragraph">자산의 데이터가 나타납니다.</block>
   <block id="1e9b75d12e4760def37dda99030a043c" category="list-text">예측, 활용도, 지연 시간 추세, IOPS 추세를 검토합니다.</block>
   <block id="53bfb6623aa4226a9a7abd1da46938ee" category="list-text">추천 사항을 받으려면 *저장 옵션 평가*를 선택하세요.</block>
@@ -358,12 +312,8 @@
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">클러스터가 검색된 후 계층화를 설정합니다.</block>
   <block id="dbf638b2df9fdd6b028f3a442df69395" category="inline-link">NetApp Cloud Tiering 설명서</block>
   <block id="7a353d1354dac3a31294d1ad9949331e" category="paragraph">계층화에 대한 자세한 내용은 다음을 참조하세요.<block ref="77dfa5d928d441d47a9ada2cff006f53" category="inline-link-rx"></block> .</block>
-  <block id="fb6c4a6ba34ef32defa8d30ffb27dc4b" category="summary">기존 자산이 있고 기술 갱신이 권장되는지 여부를 파악하기 위한 평가를 받으려면 수명 주기 계획 기술 갱신 옵션을 사용할 수 있습니다.  이 프로세스에서는 현재 업무량과 자산을 평가하고 진행 방법에 대한 권장 사항을 제공합니다.  또는 작업 부하 시뮬레이션을 시도해 볼 수도 있습니다.</block>
-  <block id="28d71a1e618675bdef45ff1e59be4038" category="doc">수명 주기 계획을 사용하여 기술 갱신을 평가합니다.</block>
-  <block id="2e0d5c7f5dda8a1f356c9e675b3f71bd" category="paragraph">기존 자산이 있고 기술 갱신이 권장되는지 확인하려면 수명 주기 계획 기술 갱신 옵션을 사용할 수 있습니다.  현재 작업 부하에 대한 간략한 평가를 검토하고 권장 사항을 받을 수 있으며, 지난 90일 이내에 NetApp 에 ​​AutoSupport 로그를 보낸 경우 해당 서비스에서 작업 부하가 새 하드웨어에서 어떻게 수행되는지 확인하기 위한 작업 부하 시뮬레이션을 제공할 수 있습니다.</block>
   <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
   <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
-  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">시스템은 다음 사항을 기준으로 기술 갱신 후보로 간주됩니다.</block>
   <block id="86602ed92a03b859038bb7756a757229" category="list-text">기술 지원 계약이 곧 종료됩니다</block>
   <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">하드웨어 수명 주기가 끝나갈 무렵</block>
   <block id="869f59d2ae09cc5c642d6874113ec74d" category="admonition">이 기능은 수명 주기 계획이나 Digital Advisor 통해 이용할 수 있습니다.</block>
@@ -372,19 +322,11 @@
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">평가하려는 시스템을 선택하세요.</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">환경, 작업 유형, 용량, 성능 및 예산에 대한 요구 사항을 지정하세요.</block>
   <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">사용자 환경에서 성능을 향상시킬 수 있는 적절한 제품 및 클라우드 서비스에 대한 권장 사항을 확인하세요.</block>
-  <block id="3b36f4b6bc4ec4b1b6204b51db2d5310" category="list-text">*기술 업데이트*를 선택하세요.</block>
-  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">기술 갱신 후보를 보여주는 기술 갱신 페이지</block>
-  <block id="4ff59188fe0581ed4553e8d2672e289b" category="paragraph"><block ref="4ff59188fe0581ed4553e8d2672e289b" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b144465a79421b6ed1853869bd650ffe" category="list-text">*기술 교체 후보* 탭을 살펴보면 기술 교체로 이점을 얻을 수 있는 모든 시스템이 나열되어 있습니다.</block>
   <block id="4fe59dee5c231845a4fd66f902820f8b" category="list-text">평가를 받고 싶은 시스템을 선택하세요.</block>
   <block id="f72458015275b72478d3c8356aa2a853" category="list-text">작업 열에서 *새로 고침 평가*를 선택합니다.</block>
-  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">기술 업데이트에 포함될 시스템</block>
-  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">평가를 수행할 시스템을 선택하고 *다음*을 선택합니다.</block>
   <block id="806dd078b829587301ef35da4ff329f4" category="list-text">요구 사항을 정의하세요.</block>
   <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">*환경*: 퍼블릭 클라우드, 하이브리드 클라우드 또는 온프레미스 등 원하는 환경 유형을 선택하세요.</block>
-  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">환경 선택을 보여주는 기술 업데이트 요구 사항 페이지</block>
-  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">*워크로드*: 처리하려는 모든 유형의 워크로드를 선택하세요. 비즈니스에 중요한 애플리케이션, 고성능 분석 및 컴퓨팅, 데이터 레이크 및 미디어 워크플로, 보조 스토리지 또는 덜 중요한 워크로드입니다.</block>
   <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">작업량 선택</block>
   <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
@@ -401,17 +343,11 @@
   <block id="3369d572efb7971966d65671e9a87c83" category="list-text">권장 사항 PDF를 다운로드하려면 *다운로드*를 선택하세요.</block>
   <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">권장 사항에 관해 NetApp 영업 담당자에게 문의하려면 *영업팀에 문의*를 선택하세요.  NetApp 영업 담당자에게 연락하기 위해 선택할 수 있는 옵션이 표시된 웹 페이지입니다.</block>
   <block id="560e42e6da9452e07ba03414df4da014" category="list-text">*마침*을 선택하세요.</block>
-  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">이미 수행된 기술 갱신 평가 보기</block>
-  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">이미 실시한 기술 갱신 평가를 검토하고 권장 사항을 다시 검토해 보세요.</block>
-  <block id="e58cff21ee4a44f6f860c9c2ea91950f" category="list-text">NetApp Console 왼쪽 탐색에서 *거버넌스* &gt; *수명주기 계획* &gt; *기술 업데이트*를 선택합니다.</block>
-  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">*기술 갱신 후보* 탭을 선택하면 기술 갱신 평가를 실시한 모든 시스템이 나열됩니다.  그런 다음 해당 시스템 행의 작업 메뉴에서 해당 시스템에 대한 평가와 권장 사항을 보려면 선택합니다.</block>
   <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">새로 고침 옵션 평가 페이지에서 *추천 보기*를 선택하세요.</block>
   <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">새로고침 권장 사항을 확인하세요.</block>
   <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">새 하드웨어에서 작업 부하 시뮬레이션</block>
   <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">지난 90일 이내에 NetApp 에 ​​AutoSupport 로그를 보낸 경우 NetApp 새 하드웨어에서 워크로드가 어떻게 수행되는지 보여주는 시뮬레이션을 제공할 수 있습니다.</block>
   <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">시뮬레이션에서 특정 작업 부하를 포함하거나 제외할 수 있습니다.  기존 작업 부하 목록에 나타나지 않으면 작업 부하를 추가할 수도 있습니다.</block>
-  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">기술 갱신 후보 탭을 보여주는 기술 갱신 페이지</block>
-  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
   <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">작업 열에서 *새로 고침 평가*를 선택합니다.</block>
   <block id="62ae1f29a7b20f4a204a10e7fb5bb187" category="admonition">수명 주기 계획은 시뮬레이션을 준비하기 위해 작업 부하 세부 정보를 가져옵니다.</block>
   <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">요구 사항 옵션을 보여주는 워크로드 페이지 시뮬레이션</block>
@@ -493,4 +429,68 @@
   <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">NSS 자격 증명을 NetApp Console 계정과 연결하는 것은 콘솔 사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">이러한 NSS 자격 증명은 특정 콘솔 계정 ID와 연결됩니다. 콘솔 조직에 속한 사용자는 *지원 &gt; NSS 관리*에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
   <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">이러한 작업을 통해 콘솔은 라이선스 다운로드, 소프트웨어 업그레이드 확인, 향후 지원 등록과 같은 작업에 NSS 계정을 사용할 수 있습니다.</block>
+  <block id="02c43db7108a3accce59c81a27ac4ef5" category="doc">라이프사이클 계획 기능 이름 업데이트</block>
+  <block id="4c5232cce8bc78f484d71da8ffcfef7b" category="paragraph">다음과 같은 Lifecycle 계획 기능의 이름이 변경되었습니다.</block>
+  <block id="c1e03330b4662e637d1bbe6857651076" category="inline-link-macro">시스템 새로 고침 평가</block>
+  <block id="d5ed2e99bd371bcfc460d6572a12add2" category="list-text">Tech refresh 기능이 이제 *System Refresh*로 이름이 변경되었습니다. <block ref="433ac4cec3ceaf7ac84bdaec77992d24" category="inline-link-macro-rx"></block> 방법을 알아보십시오.</block>
+  <block id="dde36ba383e039cbac61a2f920672ee0" category="inline-link-macro">스토리지 확장</block>
+  <block id="7909728a25fab3130222a99358ae67a5" category="list-text">용량 추가 기능이 이제 *Storage Expansion*으로 이름이 변경되었습니다. <block ref="09884e6ec96fe38b804dd493528c8e70" category="inline-link-macro-rx"></block> 방법을 알아보십시오.</block>
+  <block id="0f1f31b4920f5002f5c30d37073cc590" category="inline-link-macro">지원 등록</block>
+  <block id="7cd293fac76115b83fb817b31f0dbdf7" category="list-text">갱신 기능이 이제 *지원 갱신*으로 이름이 변경되었습니다. <block ref="5eb4e7d9f21654c7ba8e676257b3a3cd" category="inline-link-macro-rx"></block> 방법을 알아보십시오.</block>
+  <block id="088552022b0515cdd74e912dbfe6d8bb" category="admonition">이 기능은 NetApp Console(*Storage* &gt; *Lifecycle planning*) 또는 Digital Advisor(*Dashboard* &gt; *Planning widget* &gt; *System refresh*)를 통해 액세스할 수 있습니다.</block>
+  <block id="c7e292ecd46e28197c2d77d6f0917d59" category="paragraph">Console에서 직접 Console 에이전트를 생성하고 나중에 Lifecycle 계획에서 해당 에이전트를 사용할 수 있습니다. 또는 용량 개선 프로세스 중간에 Console 에이전트를 생성할 수도 있습니다.</block>
+  <block id="5d11bcc7cf307d62a4d48acb86aadb7e" category="paragraph">수명 주기 계획은 현재 또는 예상되는 낮은 용량을 가진 스토리지 자산을 평가하고 비즈니스 요구 사항을 충족하는 데이터 계층화 옵션에 대한 권장 사항을 제공합니다.</block>
+  <block id="4e0862c373675161e6e582e19dd003c7" category="list-text">시스템 수명 주기 이벤트가 임박한 시스템을 식별하여 시스템 새로 고침 계획을 세우는 데 도움을 줍니다</block>
+  <block id="730fd1f7c58f2b99314d50716de954c8" category="paragraph">이 기능은 NetApp Console(*스토리지* &gt; *수명주기 계획*) 또는 Active IQ Digital Advisor(Digital Advisor라고도 함)(*대시보드* &gt; *계획 위젯* &gt; *시스템 새로 고침*)을 통해 액세스할 수 있습니다.</block>
+  <block id="66f33ec553970161629b00ebcf098d90" category="doc">수명 주기 계획의 제한 사항</block>
+  <block id="6d0ce34323c5bcd47c92eaad67ab1145" category="summary">NetApp 라이프사이클 계획 서비스는 현재 또는 예상되는 용량이 부족한 클러스터를 식별하고 데이터 계층화 또는 추가 용량(AFF 시스템의 경우)에 대한 권장 사항을 제공합니다. 또한 이 서비스는 수명이 다해가는 시스템에 대한 시스템 교체 권장 사항도 제공합니다.</block>
+  <block id="47c77878a7175f3cc904ae84821cbc37" category="section-title">2026년 6월 3일</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetApp은 NetApp Console 및 클라우드 서비스에 대해 다양한 방식으로 지원을 제공합니다. 기술 자료(KB) 문서 및 커뮤니티 포럼과 같은 광범위한 무료 자가 지원 옵션을 연중무휴 24시간 이용할 수 있습니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">클라우드 공급자 파일 서비스, 해당 인프라 또는 해당 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 설명서를 참조하십시오.</block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">NetApp 및 NetApp 스토리지 솔루션과 데이터 서비스에 대한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">현재 보고 계신 NetApp Console 설명서입니다.</block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">NetApp 기술 자료에서 문제 해결에 도움이 되는 문서를 검색해 보세요.</block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">NetApp Console 커뮤니티에 참여하여 진행 중인 토론을 확인하거나 새로운 토론을 시작해 보세요.</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">NetApp Console 로그인과 관련된 자격 증명을 관리하는 방법을 알아보세요.</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">*케이스 생성* 기능을 사용하려면 먼저 NetApp Support Site 자격 증명을 Console 로그인과 연결해야 합니다<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block>.</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">NetApp Console에서 *도움말 &gt; 지원*을 선택하십시오.</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*서비스*: 문제가 관련된 서비스를 선택하십시오. 예를 들어, 콘솔 내 워크플로 또는 기능과 관련된 기술 지원 문제인 경우 *NetApp Console*을 선택하십시오.</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*시스템*: 스토리지에 적용되는 경우 *Cloud Volumes ONTAP* 또는 *온프레미스*를 선택한 다음 관련 작업 환경을 선택하십시오.</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">시스템 목록은 상단 배너에서 선택한 NetApp Console 조직 및 NetApp Console 에이전트의 범위 내에 있습니다.</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">이 오류는 NSS 계정과 해당 계정이 연결된 등록 회사가 NetApp Console 계정 일련 번호(예: 960xxxx) 또는 작업 환경 일련 번호에 대한 등록 회사와 일치하지 않음을 의미할 수 있습니다. 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">지원 사례 관리</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">Console에서 활성 및 해결된 지원 사례를 직접 확인하고 관리할 수 있습니다. NSS 계정 및 회사와 관련된 사례를 관리할 수 있습니다.</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">NetApp Console에서 *도움말 &gt; 지원*을 선택하십시오.</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">*사례 관리*를 선택하고, 메시지가 표시되면 NSS 계정을 Console에 추가하세요.</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">*케이스 관리* 페이지에는 Console 사용자 계정과 연결된 NSS 계정과 관련된 미결 케이스가 표시됩니다. 이 NSS 계정은 *NSS 관리* 페이지 상단에 표시되는 계정과 동일합니다.</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text"><block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block>를 선택한 다음 표시할 열을 선택하여 표에 표시되는 열을 변경합니다.</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text"><block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block>를 선택하고 사용 가능한 옵션 중 하나를 선택하여 기존 케이스를 관리합니다.</block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 갱신해야 하는 경우 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.</block>
+  <block id="61df008f4e015b91b9f0d58de0b5e47b" category="doc">수명주기 계획을 통한 스토리지 확장</block>
+  <block id="97944c01bd78cba2f90fd5780d3e1118" category="paragraph">권장 사항 중 하나는 기존 일련 번호에 쉘프를 추가하여 스토리지를 확장하는 것일 수 있습니다.</block>
+  <block id="dc2090660aa2b73abd03451a55127a78" category="list-text">*Storage Expansion*(이전의 Add Capacity)을 선택합니다.</block>
+  <block id="25c60b882c33c638e47906d1ff3e1d5e" category="summary">기존 자산을 보유하고 있으며 시스템 교체가 필요한지 여부를 평가받고 싶다면 Lifecycle planning 시스템 교체 옵션을 이용할 수 있습니다. 이 프로세스는 현재 워크로드와 자산을 평가하여 향후 진행 방법에 대한 권장 사항을 제공합니다. 또는 워크로드 시뮬레이션을 시도해 볼 수도 있습니다.</block>
+  <block id="35439d74253bf8520608ab30c3724915" category="doc">Lifecycle 계획을 사용하여 시스템 새로 고침 평가</block>
+  <block id="b9962ab1926df6115f05fa8356c61059" category="paragraph">기존 자산이 이미 있고 시스템 갱신이 권장되는지 확인하고 싶다면, Lifecycle planning System refresh 옵션을 사용할 수 있습니다. 현재 워크로드에 대한 간단한 평가를 검토하고 권장 사항을 받을 수 있으며, 또는 지난 90일 이내에 AutoSupport 로그를 NetApp에 전송한 경우, 서비스에서 새로운 하드웨어에서 워크로드가 어떻게 동작하는지 확인할 수 있도록 워크로드 시뮬레이션을 제공할 수 있습니다.</block>
+  <block id="e34f570cd9aecb4ff5db7a51ad9fa4b5" category="paragraph">시스템은 다음을 기반으로 시스템 교체 대상으로 간주됩니다.</block>
+  <block id="e27324efea1d670edc78dd94178b090b" category="list-text">*시스템 새로 고침*을 선택합니다.</block>
+  <block id="1a50abdb4c391cf1b2ec24d235f58e7d" category="inline-image-macro">시스템 새로 고침 후보를 보여주는 시스템 새로 고침 페이지</block>
+  <block id="7c668234a677ed6e44386b2414b0e92d" category="paragraph"><block ref="7c668234a677ed6e44386b2414b0e92d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3805288fb731960ba3e5acf404c8857b" category="list-text">*시스템 새로 고침 후보* 탭을 확인하십시오. 이 탭에는 시스템 새로 고침을 통해 이점을 얻을 수 있는 모든 시스템이 나열되어 있습니다.</block>
+  <block id="7c25aa9f3fc658ad554dc40ca920c439" category="inline-image-macro">시스템 업데이트에 포함될 시스템</block>
+  <block id="34898015d5a1a4b48a3f444cb7b325ef" category="paragraph"><block ref="34898015d5a1a4b48a3f444cb7b325ef" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73272ef50ad2485f86624d59bd5a1e02" category="inline-image-macro">환경 선택 사항을 표시하는 시스템 새로 고침 요구 사항 페이지</block>
+  <block id="2ffaae493d4d484b9d95b65dd7a80b25" category="paragraph"><block ref="2ffaae493d4d484b9d95b65dd7a80b25" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a80bd27b5d4618a3b50d294a9510b0b2" category="section-title">이미 수행된 시스템 새로 고침 평가 보기</block>
+  <block id="28cc50b7d4261025e86b0491e6f2e124" category="paragraph">이미 수행한 시스템 새로 고침 평가를 검토하고 권장 사항을 다시 확인할 수 있습니다.</block>
+  <block id="c3d74488f443efdc96445241e121c9b4" category="list-text">NetApp Console 왼쪽 탐색 메뉴에서 *Storage* &gt; *Lifecycle planning* &gt; *System refresh*를 선택합니다.</block>
+  <block id="fa32d96bba3596cce01d7244f327a140" category="list-text">시스템 새로 고침 평가를 수행한 모든 시스템 목록이 표시되는 *시스템 새로 고침 후보* 탭을 선택합니다. 그런 다음 해당 시스템 행의 작업 메뉴에서 해당 시스템에 대한 평가 및 권장 사항을 확인합니다.</block>
+  <block id="1058f4c1268b8ea3ec46c99a90d24530" category="list-text">NetApp Console 왼쪽 탐색 메뉴에서 *Governance* &gt; *Lifecycle planning* &gt; *System refresh*를 선택합니다.</block>
+  <block id="dfceb29612aac32946a40da0b168e4ff" category="inline-image-macro">시스템 새로 고침 후보 탭을 보여주는 시스템 새로 고침 페이지</block>
+  <block id="62a1d854312df8a4e7de58c42e66e00c" category="paragraph"><block ref="62a1d854312df8a4e7de58c42e66e00c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="42e49cdb3823814b9959fddc7c9089b9" category="sidebar">스토리지 확장</block>
 </blocks>

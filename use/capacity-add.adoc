@@ -4,7 +4,7 @@ permalink: use/capacity-add.html
 keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
 summary: 수명 주기 계획은 예측된 데이터 증가에 따라 AFF 시스템에 대한 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다. 
 ---
-= 용량 추가
+= 수명주기 계획을 통한 스토리지 확장
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: 수명 주기 계획은 예측된 데이터 증가에 따라 AFF 시스
 [role="lead"]
 수명 주기 계획은 예측된 데이터 증가에 따라 AFF 시스템에 대한 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 용량 증가 예측을 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.
 
-권장 사항 중 하나는 기존 일련 번호에 선반을 추가하여 용량을 늘리는 것입니다.
+권장 사항 중 하나는 기존 일련 번호에 쉘프를 추가하여 스토리지를 확장하는 것일 수 있습니다.
 
 NetApp 영업팀에 견적 요청이나 대체 옵션 요청으로 추천 사항을 쉽게 제출할 수 있습니다.
 
@@ -22,7 +22,7 @@ NetApp 영업팀에 견적 요청이나 대체 옵션 요청으로 추천 사항
 . link:../get-started/capacity-login.html["NetApp Console 에 로그인하세요"] .
 . *용량 계획*을 선택하세요.
 . 자산에 대해 *저장 옵션 평가*를 선택합니다.
-. *용량 추가*를 선택하세요.
+. *Storage Expansion*(이전의 Add Capacity)을 선택합니다.
 +
 자산의 데이터가 나타납니다.
 
