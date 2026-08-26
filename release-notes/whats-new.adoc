@@ -16,10 +16,12 @@ summary: 'NetApp 라이프사이클 계획 서비스는 현재 또는 예상되�
 
 
 
+[[03-june-2026]]
 == 2026년 6월 3일
 
 
 
+[[lifecycle-planning-feature-name-updates]]
 === 라이프사이클 계획 기능 이름 업데이트
 
 다음과 같은 Lifecycle 계획 기능의 이름이 변경되었습니다.
@@ -31,10 +33,12 @@ summary: 'NetApp 라이프사이클 계획 서비스는 현재 또는 예상되�
 
 
 
+[[06-october-2025]]
 == 2025년 10월 6일
 
 
 
+[[bluexp-economic-efficiency-is-now-lifecycle-planning]]
 === BlueXP economic efficiency 이제 수명 주기 계획입니다.
 
 BlueXP economic efficiency 수명 주기 계획으로 이름이 바뀌었습니다.
@@ -43,6 +47,7 @@ NetApp Console 왼쪽 탐색 모음에서 *스토리지* > *수명주기 계획*
 
 
 
+[[bluexp-is-now-netapp-console]]
 === BlueXP 는 이제 NetApp Console 입니다.
 
 강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp Console 엔터프라이즈급 온프레미스 및 클라우드 환경에서 NetApp 스토리지와 NetApp Data Services 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.
@@ -51,10 +56,12 @@ NetApp Console 왼쪽 탐색 모음에서 *스토리지* > *수명주기 계획*
 
 
 
+[[15-may-2024]]
 == 2024년 5월 15일
 
 
 
+[[disabled-features]]
 === 장애인용 기능
 
 일부 BlueXP economic efficiency 기능이 일시적으로 비활성화되었습니다.
@@ -65,10 +72,12 @@ NetApp Console 왼쪽 탐색 모음에서 *스토리지* > *수명주기 계획*
 
 
 
+[[14-march-2024]]
 == 2024년 3월 14일
 
 
 
+[[technology-refresh-options]]
 === 기술 갱신 옵션
 
 기존 자산이 있고 기술을 업데이트해야 하는지 여부를 확인하려면 BlueXP 경제적 효율성 기술 새로 고침 옵션을 사용할 수 있습니다.  현재 작업 부하에 대한 간략한 평가를 검토하고 권장 사항을 받을 수 있으며, 지난 90일 이내에 NetApp 에 ​​AutoSupport 로그를 보낸 경우 해당 서비스에서 작업 부하가 새 하드웨어에서 어떻게 수행되는지 확인하기 위한 작업 부하 시뮬레이션을 제공할 수 있습니다.
@@ -83,20 +92,24 @@ NetApp Console 왼쪽 탐색 모음에서 *스토리지* > *수명주기 계획*
 
 
 
+[[08-november-2023]]
 == 2023년 11월 8일
 
 
 
+[[technology-refresh]]
 === 기술 업데이트
 
 이번 BlueXP economic efficiency 릴리스에는 자산을 평가하고 기술 갱신이 필요한지 여부를 확인할 수 있는 새로운 옵션이 포함되었습니다.  BlueXP economic efficiency 에는 왼쪽 탐색창에 새로운 기술 새로 고침 옵션, 현재 작업 부하와 자산을 평가할 수 있는 새로운 페이지, 권장 사항을 제공하는 보고서가 포함되어 있습니다.
 
 
 
+[[02-april-2023]]
 == 2023년 4월 2일
 
 
 
+[[introducing-bluexp-economic-efficiency]]
 === BlueXP economic efficiency 소개
 
 새로운 BlueXP economic efficiency 현재 또는 예상되는 저용량 스토리지 자산을 식별하고 온프레미스 AFF 시스템에 대한 데이터 계층화 또는 추가 용량에 대한 권장 사항을 제공합니다.

@@ -4,6 +4,7 @@
 
 
 
+[[disabled-features]]
 === 장애인용 기능
 
 일부 BlueXP economic efficiency 기능이 일시적으로 비활성화되었습니다.

@@ -46,7 +46,6 @@
   <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">온프레미스 ONTAP 클러스터를 찾아보세요</block>
   <block id="5e6414979b78a348e553de111c1850ab" category="paragraph">수명 주기 계획을 사용하기 전에 지침을 보려면 다음을 참조하세요.<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block> .</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 빠른 답변을 찾는 데 도움이 될 수 있습니다.</block>
-  <block id="d1b6cf622d9f2e164684fa504c5f09b1" category="doc">수명주기 계획에 대한 자주 묻는 질문</block>
   <block id="429594ec11020249cedf48b5e9d6180e" category="paragraph">이 FAQ는 라이프사이클 계획에 대한 질문에 대한 빠른 답변을 찾는 데 도움이 될 수 있습니다.</block>
   <block id="9103a53aac4e976d2feb16caa80d499b" category="section-title">수명 주기 계획에 대한 액세스</block>
   <block id="8ee183e97ed9700b0e7e81b7bfaec173" category="paragraph">*라이프사이클 계획 URL은 무엇인가요?*</block>
@@ -254,7 +253,6 @@
   <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">용량 계획 상태 페이지가 나타납니다.</block>
   <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">용량 계획 상태 페이지에서 상태를 검토하세요.</block>
   <block id="b845cc5a85248312785154b5ed95b40c" category="summary">NetApp 수명 주기 계획 용량 계획은 AI를 사용하여 데이터 증가를 예측하여 계획 프로세스를 지원합니다.</block>
-  <block id="d2bf03a2ffe5dfe50503eb6c2dd11721" category="doc">수명 주기 계획에서 식별된 용량 문제를 검토하고 수정합니다.</block>
   <block id="093c0f8af2423bdcda0949b5d238e667" category="paragraph">용량 계획에는 현재와 미래의 저용량 영역을 식별하는 작업이 포함됩니다.  수명주기 계획은 AI를 사용하여 데이터 증가를 예측하여 계획 프로세스를 지원합니다.  수명 주기 계획은 환경에서 용량이 부족한 영역을 식별합니다.</block>
   <block id="54fc0ff98ae625a283e7f668931f35d4" category="paragraph">수명 주기 계획을 사용하면 다음과 같은 목표를 달성할 수 있습니다.</block>
   <block id="4d5929fa69ad7976fb2dcea097678a71" category="list-text"><block ref="4d5929fa69ad7976fb2dcea097678a71" category="inline-link-macro-rx"></block></block>
@@ -290,7 +288,6 @@
   <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">아무 작업도 선택하지 않고 다시 확인하라는 알림을 설정합니다.</block>
   <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">*필요한 조치 없음*: 계속 진행<block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block> .</block>
   <block id="94cf6e6559fa725179ec329e7e833dbf" category="summary">수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 서비스는 예상되는 용량 증가를 충족하고 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering 에 대한 연결을 시작합니다.</block>
-  <block id="d50a07b776f086b473cd6b38169cac15" category="doc">콜드 데이터를 클라우드 스토리지로 계층화하고 수명 주기 계획에서 식별된 스토리지를 확보합니다.</block>
   <block id="2084990ae78fc21cbd71104521d191ce" category="paragraph">수명 주기 계획은 예상되는 데이터 증가에 따라 권장 사항을 제공합니다.  예측을 수락하거나 직접 예측을 입력할 수 있습니다.  이를 바탕으로 수명주기 계획은 예상되는 용량 증가를 충족하고 저장 자산 구성에 가장 적합한 권장 사항을 제시합니다.  권장 사항 중 하나는 콜드 데이터를 클라우드 스토리지로 계층화하여 용량을 확보하는 것입니다.  이 권장 사항은 또 다른 제품인 NetApp Cloud Tiering 에 대한 연결을 시작합니다.</block>
   <block id="8e61de7a09a1a1dad60e868255297134" category="paragraph">이를 통해 데이터를 계층화하고 수명 주기 계획으로 쉽게 돌아가 다른 시스템에 대한 조치를 취할 수 있습니다.</block>
   <block id="6dfd2eb5249f90aef474d30566fea034" category="paragraph">클라우드 계층화 프로세스에는 다음 프로세스가 포함됩니다.</block>
@@ -467,11 +464,9 @@
   <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 갱신해야 하는 경우 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.</block>
-  <block id="61df008f4e015b91b9f0d58de0b5e47b" category="doc">수명주기 계획을 통한 스토리지 확장</block>
   <block id="97944c01bd78cba2f90fd5780d3e1118" category="paragraph">권장 사항 중 하나는 기존 일련 번호에 쉘프를 추가하여 스토리지를 확장하는 것일 수 있습니다.</block>
   <block id="dc2090660aa2b73abd03451a55127a78" category="list-text">*Storage Expansion*(이전의 Add Capacity)을 선택합니다.</block>
   <block id="25c60b882c33c638e47906d1ff3e1d5e" category="summary">기존 자산을 보유하고 있으며 시스템 교체가 필요한지 여부를 평가받고 싶다면 Lifecycle planning 시스템 교체 옵션을 이용할 수 있습니다. 이 프로세스는 현재 워크로드와 자산을 평가하여 향후 진행 방법에 대한 권장 사항을 제공합니다. 또는 워크로드 시뮬레이션을 시도해 볼 수도 있습니다.</block>
-  <block id="35439d74253bf8520608ab30c3724915" category="doc">Lifecycle 계획을 사용하여 시스템 새로 고침 평가</block>
   <block id="b9962ab1926df6115f05fa8356c61059" category="paragraph">기존 자산이 이미 있고 시스템 갱신이 권장되는지 확인하고 싶다면, Lifecycle planning System refresh 옵션을 사용할 수 있습니다. 현재 워크로드에 대한 간단한 평가를 검토하고 권장 사항을 받을 수 있으며, 또는 지난 90일 이내에 AutoSupport 로그를 NetApp에 전송한 경우, 서비스에서 새로운 하드웨어에서 워크로드가 어떻게 동작하는지 확인할 수 있도록 워크로드 시뮬레이션을 제공할 수 있습니다.</block>
   <block id="e34f570cd9aecb4ff5db7a51ad9fa4b5" category="paragraph">시스템은 다음을 기반으로 시스템 교체 대상으로 간주됩니다.</block>
   <block id="e27324efea1d670edc78dd94178b090b" category="list-text">*시스템 새로 고침*을 선택합니다.</block>
@@ -493,4 +488,11 @@
   <block id="32846264266c0647221942c075bdc06f" category="list-text">기술 업데이트 기능이 이제 *시스템 새로 고침*으로 이름이 변경되었습니다. 사용 방법을 알아보세요<block ref="0992661cdfbc250579dfee7583af372b" category="inline-link-rx"></block>.</block>
   <block id="e3df23ea52f04543b64192a1e358a186" category="list-text">용량 추가 기능이 이제 *Storage Expansion*으로 이름이 변경되었습니다. 사용 방법을 알아보세요<block ref="6d1deb53b91708fe3765ff162dd599c6" category="inline-link-rx"></block>.</block>
   <block id="d6d364aab071b2f59e7a2103a3f70fc3" category="list-text">갱신 기능이 이제 *Support Renewals*로 이름이 변경되었습니다. 방법을 알아보세요<block ref="80301498cb8d291152f0aa65080b783f" category="inline-link-rx"></block>.</block>
+  <block id="309a30cd1a05187653374ae2e0b6aace" category="doc">라이프사이클 계획 관련 FAQ</block>
+  <block id="a7929bdeb057d0040937eace4fc80b03" category="doc">NetApp Console 관련 도움말 보기</block>
+  <block id="9537e8e053c5115a20ac242e387c22c3" category="doc">NetApp Console 지원 등록</block>
+  <block id="2c4677d74d64b5411bccabc2573120fe" category="doc">Lifecycle planning을 통해 스토리지 용량 확장</block>
+  <block id="e23284296f5aadb6583374303409e8bc" category="doc">라이프사이클 계획을 위한 용량 검토 및 개선 워크플로</block>
+  <block id="f8af3f3477e6098e54f313c0f4bbd9e7" category="doc">수명주기 계획을 통해 콜드 데이터를 클라우드 스토리지에 계층화합니다.</block>
+  <block id="fd496caf19c50a2efb13d24e0f4180fc" category="doc">Lifecycle planning으로 시스템 새로 고침 평가</block>
 </blocks>
