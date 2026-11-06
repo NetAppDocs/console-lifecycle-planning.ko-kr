@@ -268,7 +268,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">*저장*을 선택하세요.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">그 시간이 지나면 해당 위험이 위험 목록에 다시 나타납니다.</block>
-  <block id="20245c952c33fe21dea309c4b88da6b7" category="summary">클러스터가 현재 70% 용량 임계값에 미치지 못하거나 그 이하가 될 것으로 예상되는 경우, 수명 주기 계획은 해당 클러스터를 저용량 리소스로 식별하고 경고합니다.</block>
   <block id="57fe405a418d0d172d01b2eb3de8379c" category="doc">수명 주기 계획에서 용량 상태 검토</block>
   <block id="cf9965682d8ca2a2a8060ba94c01ace5" category="paragraph">사용자 환경의 스토리지 자산이 현재 90% 용량 임계값에 미치지 못하거나 그 이하로 떨어질 것으로 예상되는 경우, 수명 주기 계획은 해당 자산을 저용량 리소스로 식별하고 경고합니다.  또한, 수명 주기 계획은 데이터를 계층화해야 하는지 여부에 대한 권장 사항을 제공합니다.</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">다음 유형의 데이터를 검토하여 용량 문제 해결에 도움을 받을 수 있습니다.</block>
@@ -495,4 +494,5 @@
   <block id="e23284296f5aadb6583374303409e8bc" category="doc">라이프사이클 계획을 위한 용량 검토 및 개선 워크플로</block>
   <block id="f8af3f3477e6098e54f313c0f4bbd9e7" category="doc">수명주기 계획을 통해 콜드 데이터를 클라우드 스토리지에 계층화합니다.</block>
   <block id="fd496caf19c50a2efb13d24e0f4180fc" category="doc">Lifecycle planning으로 시스템 새로 고침 평가</block>
+  <block id="274323025c712e3e6c79c7582e2e11fb" category="summary">클러스터 용량이 현재 70% 미만이거나 70% 미만으로 예상될 경우, 수명주기 계획에서 해당 클러스터를 용량이 부족한 리소스로 식별하여 알림을 보냅니다.</block>
 </blocks>
